@@ -1,0 +1,59 @@
+{
+  "countries": [
+    {
+      "id": 12,
+      "title": "Canada",
+      "url": "https://img.icons8.com/color/2x/canada-circular.png"
+    },
+    {
+      "id": 13,
+      "title": "Germany",
+      "url": "https://img.icons8.com/color/2x/germany-circular.png"
+    },
+    {
+      "id": 14,
+      "title": "Britain",
+      "url": "https://img.icons8.com/color/2x/great-britain-circular.png"
+    },
+    {
+      "id": 15,
+      "title": "China",
+      "url": "https://img.icons8.com/color/2x/china-circular.png"
+    },
+    {
+      "id": 16,
+      "title": "Bolivia",
+      "url": "https://img.icons8.com/color/2x/bolivia-circular.png"
+    },
+    {
+      "id": 17,
+      "title": "Australia",
+      "url": "https://img.icons8.com/color/2x/australia-circular.png"
+    },
+    {
+      "id": 18,
+      "title": "Belarus",
+      "url": "https://img.icons8.com/color/2x/belarus-circular.png"
+    },
+    {
+      "id": 19,
+      "title": "Brazil",
+      "url": "https://img.icons8.com/color/2x/brazil-circular.png"
+    }
+  ],
+  "system-types": [
+    {
+      "id": 27,
+      "url": "https://img.icons8.com/color/2x/ubuntu.png",
+      "title": "Ubuntu",
+      "versions": ["18.04", "20.04", "22.04"]
+    },
+    {
+      "id": 28,
+      "url": "https://img.icons8.com/color/2x/windows-10.png",
+      "title": "Win Server",
+      "type": "All x64",
+      "versions": ["8", "10", "11"]
+    }
+  ]
+}
